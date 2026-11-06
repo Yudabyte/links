@@ -6,7 +6,7 @@ export const profile = {
 };
 
 export const links = [
-  { label: 'Instagram', note: 'Konten harian', url: 'https://instagram.com/USERNAME' },
+  { label: 'Instagram', note: 'Konten harian', url: 'https://instagram.com/yuda.designn' },
   { label: 'YouTube', note: 'Video', url: 'https://www.youtube.com/@IdeologiAkal' },
   { label: 'WhatsApp', note: 'Hubungi saya', url: 'https://wa.me/6282371481972' },
   { label: 'Sociabuzz', note: 'Dukung saya', url: 'https://sociabuzz.com/proaccount/profile' },
